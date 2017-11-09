@@ -1,0 +1,7 @@
+BackEnd Stack:
+1. Java J2EE
+2. Spring-Rest,MVC,Hibernate
+
+Front-End Stack:
+1. AngularJS --web applications
+2. NativeScript(+ Angular JS)-- cross platform app
